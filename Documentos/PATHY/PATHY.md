@@ -8,8 +8,8 @@ das personas.
 - T – Tensões: Quais conflitos ou frustrações ela enfrenta?
 - H – Humanização: Quais são seus sentimentos, valores e traços humanos?
 - Y – Yes (Sim): O que a faria dizer "sim" para sua solução?
-  
-![Imagem](https://github.com/user-attachments/assets/d67c1a83-4b6c-4487-bdfd-f891326e40e4)
+
+![imagem PATHY](https://github.com/user-attachments/assets/07363d6e-8ac7-44ee-92d1-b60421eb65d6)
 
 Em nosso projeto sobre lixeiras a céu aberto, a técnica PATHY nos ajudou a
 desenvolver uma melhor ideia de como a interface vai funcionar e como alguém
