@@ -1,6 +1,6 @@
 # Primeiro Trabalho Prático - AVALIAÇÃO DE Eng. de Software
 
-**Instituição** Universidade federal do Amazonas (UFAM)
+**Instituição:** Universidade federal do Amazonas (UFAM)<br>
 **Curso:** Engenharia de Software  
 **Docente:** Dr. Andrey Antonio de Oliveira Rodrigues  
 **Sistema:** Escolher nome
