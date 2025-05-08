@@ -24,7 +24,7 @@
 
 **H12** - Como usuário com daltonismo, quero que a interface use cores acessíveis e contraste adequado, para que eu consiga observar e utilizar todos os recursos do aplicativo com facilidade.
 
-**H13** - Como usuário, quero visualizar o histórico das denúncias que fiz, com status e respostas, para que eu saiba se estou gerando impacto e possa acompanhar o andamento das ações.
+**H13** - Como usuário, quero visualizar o histórico das denúncias que fiz para que eu possa acompanhar o andamento das ações.7
 
 **H14** - Como usuário, quero compartilhar as denúncias diretamente pelo aplicativo, para que mais pessoas tomem conhecimento e também se envolvam na causa.
 
