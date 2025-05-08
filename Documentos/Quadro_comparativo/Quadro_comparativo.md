@@ -11,7 +11,7 @@ Esta Quadro apresenta uma análise comparativa entre diferentes soluções exist
 <br>
 <br>
 
-## Tabela Comparativa
+## Quadro Comparativa
 | Critérios / Soluções       | Colab                                                         | Meu Município                                                     | Waze for Cities                                              | Nossa Solução                                                                  |
 |----------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Modelo de Negócio**      | Plataforma de engajamento cívico, em parceria com prefeituras | Plataforma de transparência governamental (uso público e gratuito) | Gratuito (baseado na colaboração dos usuários e prefeituras) | Plataforma digital focada em denúncia qualificada, com uso de IA e parcerias públicas |
