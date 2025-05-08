@@ -6,7 +6,7 @@
 
 **H3** - Como usuário, quero recuperar minha senha por e-mail para voltar a acessar minha conta.
 
-**H4** - Como usuário, quero acessar a câmera do meu celular para tirar uma foto e registrar uma denúncia sobre descarte irregular de lixo.
+**H4** - Como usuário, quero acessar a câmera do meu celular para registrar uma denúncia sobre descarte irregular de lixo.
 
 **H5** - Como usuário, quero acessar a galeria do meu celular para selecionar uma imagem e usar para uma denúncia.
 
