@@ -30,3 +30,5 @@
 
 **H15** - Como usuário, quero receber alertas quando me aproximar de um local com várias denúncias recentes, para que eu possa me precaver, registrar novas denúncias ou até evitar a área.
 
+**H16** - Como usuário, quero visualizar um feed de denúncias próximas à minha localização atual para me manter informado sobre problemas ambientais na minha região.
+
