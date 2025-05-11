@@ -51,6 +51,9 @@ Este repositório contém os principais documentos e análises do projeto. Abaix
 
 9. **🗓️ [Backlog da Sprint](https://github.com/users/Verissimo-Casas/projects/1)**  
    - Quadro de acompanhamento das entregas em andamento na sprint atual, com tarefas atribuídas e status.
+  
+10. ** [Pano de Trabalho](Documentos/PLANO_DE_TRABALHO/PLANO_DE_TRABALHO.md)**  
+   - Quadro de acompanhamento das entregas em andamento na sprint atual, com tarefas atribuídas e status.
 
 
 
