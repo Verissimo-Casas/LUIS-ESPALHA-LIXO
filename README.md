@@ -43,8 +43,14 @@ Este repositório contém os principais documentos e análises do projeto. Abaix
 6. **📋[Histórias do Usuário](Documentos/Historias_do_usuario/Historias.md)**  
    - Histórias que representam as interações reais dos usuários com a solução, definindo necessidades e objetivos.
 
+7. **🧠 [Ideação (Notion)](https://www.notion.so/1e598407495e80a89526e922be389766?v=1e598407495e803d912a000cdb7b9b0d&pvs=4)**  
+   - Página pública do Notion com o brainstorming inicial da equipe, ideias registradas e critérios de seleção.
 
+8. **🗂️ [Backlog do Produto](https://github.com/users/Verissimo-Casas/projects/2)**  
+   - Lista completa de funcionalidades e requisitos organizados por prioridade, disponível via GitHub Projects.
 
+9. **🗓️ [Backlog da Sprint](https://github.com/users/Verissimo-Casas/projects/1)**  
+   - Quadro de acompanhamento das entregas em andamento na sprint atual, com tarefas atribuídas e status.
 
 
 
