@@ -132,6 +132,10 @@ públicas locais.
 
 - Usado indiretamente para resolver problemas ambientais.
 
+## Resumo Ilustrado Eduardo Costa
+![ES-AP_01-14](https://github.com/user-attachments/assets/3d7ebc8f-6f01-4965-87ef-8d833a3b2e8e)
+
+
 ## Administrador (Carlos Almeida – 32 anos)
 **Q1**:Cargo/Função:
 
@@ -269,6 +273,11 @@ usuários.
 
 - Falta de integração com sistemas de validação e
 cruzamento de denúncias.
+
+## Resumo Ilustrado Carlos Almeida
+![ES-AP_01-15](https://github.com/user-attachments/assets/a4f6f086-c441-4de3-b6f5-0e4ea9299a0d)
+
+
 
 ## Daltônica (Ângela Alves- 27 Anos)
 
@@ -409,3 +418,7 @@ ausência de relatórios visuais adaptáveis.
 
 - Não possui nenhum recurso para daltônicos ou inclusão
 visual.
+
+
+## Resumo Ilustrado Ângela Alves
+![ES-AP_01-16](https://github.com/user-attachments/assets/1dfbdfed-117e-406c-8b53-724f40c5feb7)
