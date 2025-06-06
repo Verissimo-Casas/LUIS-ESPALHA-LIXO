@@ -41,3 +41,9 @@ No projeto **DeOlhoNoLixo**, o Tech Stack Map foi criado para ilustrar as tecno
 | **Visão Computacional** | - **OpenCV**                                                                              | Biblioteca madura e consolidada para pré-processamento de imagens e operações básicas.                                       |
 |                         | - **TensorFlow ou PyTorch**                                                               | Frameworks líderes de mercado, com excelente suporte a modelos de Machine Learning e integração direta com Python.           |
 | **Deploy e Serviços**   | - **Docker**                                                                              | Facilita o empacotamento, escalabilidade e gerenciamento do backend e das dependências.
+
+
+## Conclusão
+O Tech Stack Map apresentado proporciona uma visão clara e organizada de todas as tecnologias e ferramentas escolhidas para o desenvolvimento do projeto "DeOlhoNoLixo". Cada camada, desde o frontend até o backend, banco de dados, deploy e visão computacional, foi pensada estrategicamente para atender aos requisitos do sistema, priorizando eficiência, escalabilidade e facilidade de manutenção.
+
+
