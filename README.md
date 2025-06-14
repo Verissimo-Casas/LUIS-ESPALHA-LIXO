@@ -1,4 +1,4 @@
-# Primeiro Trabalho Prático - AVALIAÇÃO DE Eng. de Software
+# Trabalho Prático - AVALIAÇÃO DE Eng. de Software
 
 **Instituição:** Universidade federal do Amazonas (UFAM)<br>
 **Curso:** Engenharia de Software  
