@@ -30,6 +30,8 @@ Este repositório contém os principais documentos e análises do projeto. Abaix
 
    A segunda parte do Trabalho Prático II, **Arquitetura do Software**, define a estrutura do sistema com padrões arquiteturais e do mapa tecnológico, representa essa estrutura com o Modelo C4 e o alinhamento com as necessidades do usuário por meio da rastreabilidade com as Histórias de Usuário.
 
+[Dailys da Segunda Parte](https://www.notion.so/20b8ebe8f0088078a849e021f440a066?v=20b8ebe8f00880818514000cf218b1c1&source=copy_link)
+
 ---
 
 
