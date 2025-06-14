@@ -1,6 +1,6 @@
 # Arquitetura e Componentes Principais (Conteiner):
 
-![C4Conteiner](https://github.com/user-attachments/assets/1c3e3193-d414-4df5-9c0e-d0fae651a9d3)
+![C4Conteiner](https://github.com/user-attachments/assets/c11abbe3-20aa-4ec7-99fb-09307a64bc7c)
 
 
 
