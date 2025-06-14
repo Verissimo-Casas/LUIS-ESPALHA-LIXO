@@ -1,9 +1,10 @@
-# Trabalho Prático - AVALIAÇÃO DE Eng. de Software
+# Trabalho Prático - AVALIAÇÃO DE Eng. de Software 
+<img src="https://github.com/user-attachments/assets/c6eda301-3d87-4e44-af7d-34876e04314a" alt="Descrição da imagem" width="100" height="100"><img src="https://github.com/user-attachments/assets/24a338b6-4a64-49f3-979a-73b645b30712" alt="logo do icet" width="100" height="100">
 
 **Instituição:** Universidade federal do Amazonas (UFAM)<br>
 **Curso:** Engenharia de Software  
 **Docente:** Dr. Andrey Antonio de Oliveira Rodrigues  
-**Sistema:** Escolher nome
+**Nome do Sistema:** DeOlho NoLixo
 
 ---
 
@@ -17,9 +18,9 @@
 - **Veríssimo Casas** - 21851507
 
 ---
-# 📚Sumário do Repositório
+# 📚Disposição do Repositório
 
-Este repositório contém os principais documentos e análises do projeto. Abaixo estão as seções organizadas com links diretos para cada pasta relevante.
+Este repositório contém os principais documentos e análises do projeto. Abaixo estão as seções organizadas com links diretos para cada etapa do projeto.
 
 ### Ir para - [Parte 1](Documentos/TP-PARTE-I)
 
@@ -31,13 +32,6 @@ Este repositório contém os principais documentos e análises do projeto. Abaix
 
 ---
 
-
-### 🚀 Como Navegar no Repositório
-
-- Use o **Sumário de Pastas** para acessar diretamente cada pasta do projeto.  
-- Dentro de cada pasta, arquivos individuais têm explicações detalhadas para referência rápida.
-
----
 
 ### 📜 Licença
 
