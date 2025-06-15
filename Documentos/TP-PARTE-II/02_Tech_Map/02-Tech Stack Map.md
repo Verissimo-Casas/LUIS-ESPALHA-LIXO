@@ -12,35 +12,31 @@ No projeto **DeOlhoNoLixo**, o Tech Stack Map foi criado para ilustrar as tecno
                                       
 
 ## Camada Front-end
-![Camada-front](https://github.com/user-attachments/assets/42d194ad-4161-4fa3-b52a-667f58c1422b)
+![1](https://github.com/user-attachments/assets/8e324401-8df5-48a1-aa0a-668b02fee7ce)
 
 ## Camada Back-end
-![Camada-back](https://github.com/user-attachments/assets/7c9d23ba-94fa-4a75-8c20-6bd82fcce6fc)
+![2](https://github.com/user-attachments/assets/af77be85-ecab-4c6d-88bc-d8f09b224da4)
 
 ## Camada Armazenamento
-![Camada-armazenamento](https://github.com/user-attachments/assets/36f8235e-123b-4878-9f6c-788afad27780)
+![3](https://github.com/user-attachments/assets/45ad2883-f295-4a0a-b7d7-4c71d3e1911a)
 
 ## Camada Visão
-![Camada-visao](https://github.com/user-attachments/assets/7df24dea-63f3-47a2-bbb9-897427d9385b)
+![4](https://github.com/user-attachments/assets/37c4e660-91b2-4ab0-9e11-1f0df87aa138)
+
 
 ## Tech Stack Map
-![Tech-map](https://github.com/user-attachments/assets/3f694bb7-48af-4f53-8c99-ddc897582e17)
+![5](https://github.com/user-attachments/assets/9e3eea2e-480a-41b9-90a3-34860e12377d)
+
 
 ## Tabela Descritiva
 
-| **Camada**              | **Tecnologias Utilizadas**                                                                 | **Justificativa**                                                                                                            |
-|-------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Frontend (App Mobile)** | - **Flutter/Dart**                                                                       | Permite desenvolvimento rápido e multiplataforma, com ótima performance em Android e iOS usando um único código-fonte.       |
-|                         | - **SQLite**                                                                              | Banco de dados leve, ideal para armazenamento local no dispositivo e funcionamento offline.                                  |
-|                         | - **Plugins (Image_picker, HTTP)**                                                        | Integrações facilitadas com a câmera e comunicação eficiente com o backend.                                                  |
-| **Backend**             | - **Python**                                                                              | Linguagem robusta, com grande ecossistema para APIs e integração com machine learning.                                       |
-|                         | - **FastAPI**                                                                             | Framework rápido, moderno e fácil de usar, facilita a criação de endpoints REST performáticos e com documentação automática.  |
-|                         | - **Docker**                                                                              | Garante portabilidade e facilidade de deploy em diversos ambientes (dev, produção, servidores).                              |
-|                         | - **Bibliotecas Adicionais (FastAPI[all], Uvicorn, Pydantic)**                             | Simplificam deploy, tipagem, validação e documentação da API.                                                                |
-| **Banco de Dados**      | - **SQLite**                                                                              | Solução simples, sem necessidade de servidor dedicado, suficiente para volume moderado e prototipagem rápida.                |
-| **Visão Computacional** | - **OpenCV**                                                                              | Biblioteca madura e consolidada para pré-processamento de imagens e operações básicas.                                       |
-|                         | - **TensorFlow ou PyTorch**                                                               | Frameworks líderes de mercado, com excelente suporte a modelos de Machine Learning e integração direta com Python.           |
-| **Deploy e Serviços**   | - **Docker**                                                                              | Facilita o empacotamento, escalabilidade e gerenciamento do backend e das dependências.
+| **Camada**                | **Tecnologias Utilizadas**                                                 | **Justificativa**                                                                                                        |
+|---------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Frontend (App Mobile)** | - **Flutter/Dart**<br>- **Plugins (Image_picker, HTTP)**                  | Permite desenvolvimento rápido e multiplataforma, com ótima performance em Android e iOS usando um único código-fonte.<br>Integrações facilitadas com a câmera e comunicação eficiente com o backend. |
+| **Backend**               | - **Python**<br>- **FastAPI**<br>- **Docker**<br>- **Bibliotecas Adicionais (FastAPI[all], Uvicorn, Pydantic)** | Linguagem robusta, com grande ecossistema para APIs e integração com machine learning.<br>Framework rápido, moderno e fácil de usar, facilita a criação de endpoints REST performáticos e com documentação automática.<br>Garante portabilidade e facilidade de deploy em diversos ambientes (dev, produção, servidores).<br>Simplificam deploy, tipagem, validação e documentação da API. |
+| **Banco de Dados**        | - **SQLite**<br>- **Redis**                                                | Solução simples, sem necessidade de servidor dedicado, suficiente para volume moderado e prototipagem rápida.<br>Armazenamento em memória para cache, aumentando a performance de consultas rápidas. |
+| **Visão Computacional**   | - **OpenCV**<br>- **TensorFlow ou PyTorch**                                | Biblioteca madura e consolidada para pré-processamento de imagens e operações básicas.<br>Frameworks líderes de mercado, com excelente suporte a modelos de Machine Learning e integração direta com Python. |
+| **Deploy e Serviços**     | - **Docker**                                                               | Facilita o empacotamento, escalabilidade e gerenciamento do backend e das dependências. |
 
 
 ## Conclusão
