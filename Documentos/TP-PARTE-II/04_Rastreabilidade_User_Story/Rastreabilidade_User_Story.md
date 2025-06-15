@@ -1,0 +1,7 @@
+| HISTÓRIAS DE USUÁRIO | COMPONENTES ENVOLVIDOS | DIAGRAMAS DE REFERÊNCIA |
+|----------------------|------------------------|--------------------------|
+| "Como usuário, quero fazer login com meu e-mail e senha para acessar minha conta no aplicativo." | Aplicativo móvel, Aplicação de Tela, Controlador de Login, Componente de Autenticação de Login, API, Banco de Dados SQL | Containers e Componentes |
+| "Como usuário, quero preencher as minhas informações básicas para poder me cadastrar e usar o aplicativo." | Aplicativo móvel, Controlador de Cadastro, Componente de Cadastro, API, Banco de Dados SQL | Containers e Componentes |
+| "Como usuário, quero acessar a câmera do meu celular para registrar uma denúncia sobre descarte irregular de lixo." | Aplicativo móvel, MinIO com bucket, ML microservice, API, Redis SGBD, Controlador de Câmera, Componente de Câmera, Banco de Dados Memória, Bucket de Imagens, IA de Categorização | Containers e Componentes |
+| "Como usuário, quero preencher um formulário com detalhes sobre a denúncia para fornecer informações úteis às autoridades" | Aplicativo móvel, API, Redia SGBD, Controlador de Formulário, Componente de Formulário, Banco de Dados Memória | Containers e Componentes |
+| "Como usuário, quero visualizar um feed de denúncias próximas à minha localização atual para me manter informado sobre problemas ambientais na minha região." | Aplicativo móvel, API, Redia SGBD, Banco de Dados Memória, Controlador de Feed de Denúncia, Componente de Localização, Sistema de Localização | Containers e Componentes |
