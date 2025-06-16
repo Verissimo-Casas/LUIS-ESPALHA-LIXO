@@ -1,7 +1,17 @@
+
 ```mermaid
   flowchart LR
+
+  %% Color definitions - C4 Model blue and white theme
+  classDef personStyle fill:#4B9BF1,stroke:#052E56,color:#ffffff
+  classDef containerStyle fill:#4B9BF1,stroke:#0B4884,color:#ffffff
+  classDef componentStyle fill:#4B9BF1,stroke:#346AC1,color:#ffffff
+  classDef systemStyle fill:#999999,stroke:#777777,color:#ffffff
+  classDef externalStyle fill:#B3B3B3,stroke:#8A8A8A,color:#ffffff
+  classDef bind stroke-dasharray:5 5,stroke:#08427B
+  
     %% ========== VIEWS ==========
-    subgraph "Views"
+    subgraph Views["Views • Flutter Widgets"]
       direction TB
       LoginPage["LoginPage\n(H1)"]
       RegisterPage["RegisterPage\n(H2)"]
@@ -21,7 +31,7 @@
     end
   
     %% ========== MODEL (Repositories) ==========
-    subgraph "Model • Repositories"
+  subgraph Model["Model • Repositories"]
       direction TB
       AuthRepo["AuthRepository"]
       DenunciaRepo["DenunciaRepository"]
@@ -30,7 +40,7 @@
     end
   
     %% ========== DATA SOURCES ==========
-    subgraph "Data Sources"
+    subgraph DataSources["Data Sources"]
       direction TB
       %% Remote
       AuthRemote["AuthRemoteDS\n(Dio/Retrofit)"]
@@ -102,5 +112,18 @@
     %% ------- Offline sync / token refresh -------
     DenLocal -.sync.-> DenRemote
     AuthLocal -.token.-> AuthRemote
+
+
+  %% Apply styles to subgraphs - using C4 Model color palette
+  class Views personStyle
+  class ViewModels containerStyle
+  class Model componentStyle
+  class DataSources componentStyle
+  class Infra systemStyle
+
+
+
+
+
 
 ```
