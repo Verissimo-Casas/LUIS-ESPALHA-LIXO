@@ -227,3 +227,55 @@
 
 
 ```
+# Diagrama de Classes - Sistema de Denúncias
+
+Este repositório contém o diagrama de classes UML do sistema de denúncias, desenvolvido com base no padrão **MVVM** e utilizando o **Repository Pattern** em um aplicativo Flutter. O diagrama foi criado no formato **Mermaid**, facilitando a visualização e alterações.
+
+## 🗂 Estrutura do Sistema
+
+O sistema é dividido em várias camadas, cada uma com responsabilidades bem definidas:
+
+### 1. **Views (Flutter Widgets)**
+
+Componentes responsáveis pela interface gráfica, como:
+
+- **LoginPage**, **RegisterPage**, **FeedPage**, entre outros.
+- Incluem atributos como controladores de formulário e métodos para construir interfaces e gerenciar interações.
+
+### 2. **ViewModels (Provider/Riverpod)**
+
+Intermediários que gerenciam a lógica de apresentação e o estado, como:
+
+- Exemplo: **LoginViewModel**, **FeedViewModel**.
+- Abstraem a comunicação entre as Views e os Repositórios.
+
+### 3. **Repositories**
+
+Camada que fornece acesso aos dados, centralizando as operações de fontes remotas e locais:
+
+- **AuthRepository**, **DenunciaRepository**, **MediaRepository**, e **GeoRepository**.
+
+### 4. **Data Sources**
+
+Responsáveis por conectar-se a APIs externas ou bancos de dados locais:
+
+- **Remotos**: **AuthRemoteDS**, **DenunciaRemoteDS**, **GeoRemoteDS**.
+- **Locais**: **AuthLocalDS**, **DenunciaLocalDS**, **MediaLocalDS**.
+
+### 5. **Classes Externas**
+
+- **API REST**: Interface de comunicação com servidores remotos.
+- **Banco Local**: Representação do armazenamento local (SQLite, Hive).
+
+## 🔄 Relações no Sistema
+
+- As **Views** possuem composição com os **ViewModels**.
+- Os **ViewModels** têm dependências dos **Repositories**.
+- Os **Repositories** se comunicam com os **Data Sources** para acessar informações locais e remotas.
+- Fontes de dados remotas se conectam a APIs REST, enquanto fontes locais interagem com bancos de dados.
+
+## 🚀 Padrões Adotados
+
+- **MVVM (Model-View-ViewModel)**: Para separação de responsabilidades.
+- **Repository Pattern**: Abstração de acesso aos dados.
+- **Dependency Injection**: Modularidade e testabilidade.
