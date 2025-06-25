@@ -1,4 +1,4 @@
-# H1
+# H1 - - Como usuário, quero fazer login com meu e-mail e senha para acessar minha conta no aplicativo.
 
 | Caso de teste | Classes de equivalência       | Entradas                                  | Resultado esperado                                          |
 |---------------|-------------------------------|-------------------------------------------|------------------------------------------------------------|
@@ -22,7 +22,7 @@
 ---
 
 
-# H2
+# H2 - Como usuário, quero preencher as minhas informações básicas para poder me cadastrar e usar o aplicativo.
 
 
 | Caso de teste | Classes de equivalência       | Entradas                                         | Resultado esperado                                     |
@@ -40,7 +40,7 @@
 | Caso 11       | 1,4,7,10,15                  | “Salvar login” não aparece na interface         | Falha ao apresentar a opção de salvar login         |
 
 ---
-# H3
+# H3 - Como usuário, quero recuperar minha senha por e-mail para voltar a acessar minha conta.
 
 | Caso de teste | Classes de equivalência       | Entradas                                             | Resultado esperado                                      |
 |---------------|-------------------------------|-----------------------------------------------------|--------------------------------------------------------|
@@ -57,7 +57,7 @@
 | Caso 11       | 1,4,7,10,15                  | Link utilizado ou inválido                          | Acesso negado                                          |
 
 ---
-# H4
+# H4 - Como usuário, quero acessar a câmera do meu celular para registrar uma denúncia sobre descarte irregular de lixo.
 
 | Caso de teste | Classes de equivalência       | Entradas                                                                | Resultado esperado                                      |
 |---------------|-------------------------------|------------------------------------------------------------------------|--------------------------------------------------------|
@@ -79,7 +79,7 @@
 
 ---
 
-# H6
+# H6 - Como usuário, quero ter acesso rápido a um botão de denúncia, a fim de registrar, facilmente, um problema ambiental.
 
 | Caso de teste | Classes de equivalência       | Entradas                                             | Resultado esperado                                     |
 |---------------|-------------------------------|-----------------------------------------------------|-------------------------------------------------------|
@@ -99,7 +99,7 @@
 
 ---
 
-# H7
+# H7 - Como usuário, quero preencher um formulário com detalhes sobre a denúncia para fornecer informações úteis às autoridades.
 
 | Caso de teste | Classes de equivalência       | Entradas                                             | Resultado esperado                                                           |
 |---------------|-------------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------|
@@ -116,8 +116,7 @@
 
 ---
 
-# H8
-
+# H8 - Como usuário, quero compartilhar minha localização em tempo real para indicar indicar o local exato do problema.
 
 | Caso de teste | Classes de equivalência       | Entradas                                             | Resultado esperado                                                  |
 |---------------|-------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
@@ -133,7 +132,7 @@
 
 ---
 
-# H13
+# H13 - Como usuário, quero visualizar o histórico das denúncias que fiz, com status e respostas, para que eu saiba se estou gerando impacto e possa acompanhar o andamento das ações
 
 | Caso de teste | Classes de equivalência       | Entradas                                                 | Resultado esperado                                                     |
 |---------------|-------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------|
@@ -149,7 +148,7 @@
 
 ---
 
-# H14
+# H14 - Como usuário, quero compartilhar as denúncias diretamente pelo aplicativo, para que mais pessoas tomem conhecimento e também se envolvam na causa.
 
 
 | Caso de teste | Classes de equivalência       | Entradas                                                  | Resultado esperado                                              |
@@ -162,8 +161,7 @@
 
 ---
 
-# H16
-
+# H16 - Como usuário, quero visualizar um feed de denúncias próximas à minha localização atual para me manter informado sobre problemas ambientais na minha região.
 
 | Caso de teste | Classes de equivalência       | Entradas                                                    | Resultado esperado                                             |
 |---------------|-------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|
