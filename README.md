@@ -28,13 +28,13 @@ Este repositório contém os principais documentos e análises do projeto. Abaix
 
 ### Ir para - [Parte 2](Documentos/TP-PARTE-II)
 
-   A segunda parte do Trabalho Prático II, **Arquitetura do Software**, define a estrutura do sistema com padrões arquiteturais e do mapa tecnológico, representa essa estrutura com o Modelo C4 e o alinhamento com as necessidades do usuário por meio da rastreabilidade com as Histórias de Usuário.
+   A segunda parte do Trabalho Prático I, **Arquitetura do Software**, define a estrutura do sistema com padrões arquiteturais e do mapa tecnológico, representa essa estrutura com o Modelo C4 e o alinhamento com as necessidades do usuário por meio da rastreabilidade com as Histórias de Usuário.
 
 [Dailys da Segunda Parte](https://www.notion.so/20b8ebe8f0088078a849e021f440a066?v=20b8ebe8f00880818514000cf218b1c1&source=copy_link)
 
 
 ### Ir para - [Parte 3](Documentos/TP-PARTE-III)
-   A terceira parte do Trabalho Prático II, **Inspeção**, foca na análise da qualidade do sistema. Inclui inspeção com problemas apontados, issues abertas e correções feitas e a apresentação das classes de equivalência e casos de teste mais relevantes, destacando a lógica das escolhas.
+   A terceira parte do Trabalho Prático I, **Inspeção**, foca na análise da qualidade do sistema. Inclui inspeção com problemas apontados, issues abertas e correções feitas e a apresentação das classes de equivalência e casos de teste mais relevantes, destacando a lógica das escolhas.
 
 
 [Dailys da Segunda Parte](https://www.notion.so/21a8ebe8f008800ea01ee973235f64d5?v=21a8ebe8f00881718c95000ca352db30&source=copy_link)
