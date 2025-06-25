@@ -161,10 +161,10 @@ Por meio dessa tabela, é possível identificar comportamentos esperados frente 
 | Caso de teste | Classes de equivalência       | Entradas                                                  | Resultado esperado                                              |
 |---------------|-------------------------------|----------------------------------------------------------|------------------------------------------------------------------|
 | Caso 1        | 1,4                           | Botão de compartilhar disponível em cada item de denúncia, link de compartilhamento disponível | Denúncia compartilhada com sucesso                              |
-| Caso 2        | **2****,**4                           | Botão de compartilhar ausente nas denúncias              | Usuário não consegue compartilhar                                |
-| Caso 3        | **3****,**4                           | Botão aparece mas não executa nenhuma função             | Falha de interação                                               |
-| Caso 4        | 1,**5**** **                          | Link exige login para visualizar                         | Restrição incorreta de acesso                                    |
-| Caso 5        | 1,**6**** **                          | Link gera erro ou redireciona incorretamente             | Falha no link, o conteúdo não pode ser compartilhado             |
+| Caso 2        | **2**,4                           | Botão de compartilhar ausente nas denúncias              | Usuário não consegue compartilhar                                |
+| Caso 3        | **3**,4                           | Botão aparece mas não executa nenhuma função             | Falha de interação                                               |
+| Caso 4        | 1,**5**                          | Link exige login para visualizar                         | Restrição incorreta de acesso                                    |
+| Caso 5        | 1,**6**                          | Link gera erro ou redireciona incorretamente             | Falha no link, o conteúdo não pode ser compartilhado             |
 
 ---
 
