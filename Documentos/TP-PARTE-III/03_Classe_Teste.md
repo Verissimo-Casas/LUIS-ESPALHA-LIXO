@@ -1,6 +1,9 @@
 # Tabela de Teste
 
-A **Tabela de Equivalência** é uma ferramenta que auxilia na identificação de possíveis cenários dentro de um sistema, organizando casos de teste com base em combinações de classes de equivalência. Cada caso se relaciona com condições válidas ou erros esperados, garantindo que o sistema seja avaliado em termos de funcionalidade, comportamento correto e resposta adequada a entradas inválidas. Ela é essencial para padronizar as validações e garantir a cobertura ampla da qualidade do sistema.
+
+A **Tabela de Classe de Teste** é uma ferramenta essencial para validar funcionalidades de um sistema, organizando casos de teste com base em classes de equivalência. Cada classe representa um grupo de entradas ou condições que devem ser tratadas de forma semelhante pelo sistema.
+
+Por meio dessa tabela, é possível identificar comportamentos esperados frente às entradas fornecidas, ajudando a detectar falhas e inconsistências. Ela detalha, de forma estruturada, os cenários de uso, os dados inseridos, e os resultados esperados, garantindo a eficácia e a precisão dos testes para diferentes funcionalidades.
 <br>
 <br>
 
