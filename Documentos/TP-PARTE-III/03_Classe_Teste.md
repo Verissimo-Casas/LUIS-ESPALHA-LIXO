@@ -1,4 +1,4 @@
-# H1 - - Como usuário, quero fazer login com meu e-mail e senha para acessar minha conta no aplicativo.
+# H1 - Como usuário, quero fazer login com meu e-mail e senha para acessar minha conta no aplicativo.
 
 | Caso de teste | Classes de equivalência       | Entradas                                  | Resultado esperado                                          |
 |---------------|-------------------------------|-------------------------------------------|------------------------------------------------------------|
