@@ -37,4 +37,10 @@ Este repositório contém os principais documentos e análises do projeto. Abaix
    A terceira parte do Trabalho Prático I, **Inspeção**, foca na análise da qualidade do sistema. Inclui inspeção com problemas apontados, issues abertas e correções feitas e a apresentação das classes de equivalência e casos de teste mais relevantes, destacando a lógica das escolhas.
 
 
-[Dailys da Segunda Parte](https://www.notion.so/21a8ebe8f008800ea01ee973235f64d5?v=21a8ebe8f00881718c95000ca352db30&source=copy_link)
+[Dailys da Terceira Parte](https://www.notion.so/21a8ebe8f008800ea01ee973235f64d5?v=21a8ebe8f00881718c95000ca352db30&source=copy_link)
+
+
+### Ir para - [Parte 4](Documentos/TP-PARTE-IV)
+   A quarta e última parte do Trabalho Prático I, **MVP e RASTREABILIDADE**, consiste na entrega de uma versão funcional e navegável do sistema. Essa etapa tem como foco validar o conceito do aplicativo de acordo com os artefatos previamente elaborados, permitindo a demonstração das principais funcionalidades essenciais do produto.
+
+[Dailys da Quarta Parte](https://www.notion.so/22b8ebe8f008800ab670cfdcb89caaee?v=22b8ebe8f008817b8b50000c9a8aeebc)
