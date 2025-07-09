@@ -81,6 +81,10 @@ Localizado no Aplicativo Móvel, com acesso direto à funcionalidade de denúnci
 **Diagrama C4 (Componente):**  
 O botão está presente em múltiplos controladores, principalmente no Controlador de Feed de Denúncia, que redireciona ao Controlador de Formulário.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/38e92b64-3d58-464b-a1c8-907b48c28ff9" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
+
 ---
 
 ## Funcionalidade: Formulário de denúncia
@@ -93,6 +97,10 @@ O formulário enviado do Aplicativo Móvel é processado pela API, que armazena 
 
 **Diagrama C4 (Componente):**  
 O Controlador de Formulário usa o Componente de Formulário para coleta e envio de dados.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d197907a-74d6-45fe-88ea-b946870b1020" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
 
 ---
 
@@ -107,6 +115,10 @@ O Aplicativo Móvel acessa o Sistema de Geolocalização via API para obter coor
 **Diagrama C4 (Componente):**  
 O Controlador de Formulário utiliza o Componente de Localização, que envia e consulta a geolocalização.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7cfc72b3-fd06-48a5-8834-4681e89c687f" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
+
 ---
 
 ## Funcionalidade: Feed de denúncias
@@ -119,3 +131,7 @@ A funcionalidade é exibida no Aplicativo Móvel, que consome dados da API que a
 
 **Diagrama C4 (Componente):**  
 O Controlador de Feed de Denúncia usa o Componente de Localização para filtrar denúncias próximas.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/68e885e5-d41a-423c-9603-ed5362bb699d" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
