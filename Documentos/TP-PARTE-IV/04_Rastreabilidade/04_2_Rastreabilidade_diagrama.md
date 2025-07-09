@@ -13,6 +13,10 @@ A funcionalidade faz parte do container “Aplicativo Móvel”, que se comunica
 **Diagrama C4 (Componente):**  
 Utiliza o Controlador de Login que aciona o Componente de Autenticação de Login. A autenticação é feita via API e armazenada no Banco de Dados SQL.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eef4cdec-3537-4060-b33e-888e96b8aa39" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
+
 ---
 
 ## Funcionalidade: Cadastro
@@ -25,6 +29,10 @@ O cadastro acontece no “Aplicativo Móvel”, que envia os dados para a API, a
 
 **Diagrama C4 (Componente):**  
 Usa o Controlador de Cadastro e o Componente de Cadastro para preencher e validar os dados antes do envio à API.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6cf04dae-5e74-47d8-b0bf-527a43ef0829" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
 
 ---
 
@@ -39,6 +47,10 @@ O “Aplicativo Móvel” envia requisição para API, que valida o e-mail e aci
 **Diagrama C4 (Componente):**  
 Utiliza o Controlador de Login, que aciona o Componente de Autenticação de Login para validar o e-mail informado e solicitar à API o envio do link de recuperação por meio do Sistema de E-mail.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/706c8c98-0ba7-43c5-a8b4-7dc20c4a9fef" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
+
 ---
 
 ## Funcionalidade: Acesso à câmera
@@ -51,6 +63,10 @@ O Aplicativo Móvel captura imagem e envia via API, que armazena no MinIO com Bu
 
 **Diagrama C4 (Componente):**  
 O Controlador de Câmera usa o Componente de Câmera, que envia a imagem via HTTP para a API.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/85885d18-269a-4d9e-b26a-757c55b7d69c" width="300" alt="Captura de tela 2025-07-09 233106">
+</div>
 
 ---
 
